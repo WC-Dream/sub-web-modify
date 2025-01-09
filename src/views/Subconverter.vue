@@ -403,7 +403,7 @@ export default {
         backendOptions: [
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
-		      {value: "https://apisub.liaoqwq.cyou"},
+		      {value: "https://apisub.liaoqaq.site"},
           {value: "https://api.tsutsu.one"},
           {value: "https://www.nameless13.com"},
           {value: "https://sub.xeton.dev"},
