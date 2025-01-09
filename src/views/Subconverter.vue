@@ -393,7 +393,7 @@ export default {
         customBackend: {
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
-		      "Liao": "https://apisub.liaoqwq.cyou",
+		      "Liao": "https://apisub.liaoqaq.site",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
