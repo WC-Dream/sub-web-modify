@@ -538,7 +538,7 @@ export default {
         tls13: false,
         udp: true,
         xudp: true,
-        tfo: true,
+        tfo: false,
         sort: false,
         expand: true,
         scv: true,
